@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Smile",
+  "description": "A futuristic cosmetic dentistry platform featuring real-time AI voice consultation and concierge services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
